@@ -1,4 +1,4 @@
-import FooterMenu from "../Footer/FooterMenu";
+import FooterMenu from "../Footer/FooterMenu.jsx";
 import { FaFacebook, FaTwitter, FaInstagram } from "react-icons/fa";
 import { FiGlobe } from "react-icons/fi";
 
