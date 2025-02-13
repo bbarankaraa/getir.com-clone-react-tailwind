@@ -9,7 +9,7 @@ const Footer = () => {
         <div className="grid md:grid-cols-4 gap-y-6 md:py-10 pt-4 px-4">
           <section>
             <nav className="grid gap-y-4">
-              <h6 className="text-lg text-primary-color">Getir'i indir!</h6>
+              <h6 className="text-lg text-primary-color">Götir'i indir!</h6>
               <a href="#">
                 <img
                   src="https://getir.com/_next/static/images/appstore-tr-141ed939fceebdcee96af608fa293b31.svg"
@@ -32,7 +32,7 @@ const Footer = () => {
           </section>
           <section className="grid gap-x-5 md:gap-y-4 gap-y-2">
             <nav className="">
-              <h6 className="text-lg text-brand-color">Getir'i keşfet</h6>
+              <h6 className="text-lg text-brand-color">Götir'i keşfet</h6>
                 <ul className="grid gap-y-1 md:gap-y-2">
                   <li>
                     <a
@@ -165,7 +165,7 @@ const Footer = () => {
                       href="#"
                       className="text-sm hover:text-brand-color transition-colors"
                     >
-                      GetirYemek Restoranı Ol
+                      GötirYemek Restoranı Ol
                     </a>
                   </li>
                   <li>
@@ -173,7 +173,7 @@ const Footer = () => {
                       href="#"
                       className="text-sm hover:text-brand-color transition-colors"
                     >
-                      GetirÇarşı İşletmesi Ol
+                      GötirÇarşı İşletmesi Ol
                     </a>
                   </li>
                   <li>
@@ -190,7 +190,7 @@ const Footer = () => {
         </div>
         <div className="flex flex-col md:flex-row justify-between items-center border-t border-gray-200 mt-6 py-6 bg-gray-100 md:bg-white">
           <div className="text-xs text-gray-700 flex md:flex-row flex-col text-center gap-x-8">
-            © 2025 Getir
+             2025 Götir
             <a
               href="#"
               className="text-brand-color text-[13px] md:mt-0 mt-1 md:mb-0 mb-2"

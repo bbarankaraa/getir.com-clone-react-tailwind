@@ -4,7 +4,7 @@ const MobileApp = () => {
     <div className="2xl:px-32 lg:px-4 lg:mx-auto lg:mt-6">
     <div className="lg:bg-[url(src/assets/doodle.png)] bg-brand-color h-[312px] lg:rounded-lg lg:flex lg:justify-between items-center">
       <div className="flex flex-col justify-center lg:p-10 p-4 h-full">
-        <h3 className="text-[26px] font-bold text-white tracking-tight">Getir'i indir!</h3>
+        <h3 className="text-[26px] font-bold text-white tracking-tight">Götir'i indir!</h3>
         <p className="text-white font-semibold my-3">İstediğiniz ürünleri dakikalar içinde kapınıza <br /> getirelim.</p>
         <nav className="flex lg:flex-row flex-col gap-2 lg:pt-8">
           <a href="#">
@@ -19,7 +19,7 @@ const MobileApp = () => {
         </nav>
       </div>
       <picture className="h-full hidden lg:flex items-end">
-        <img src="https://cdn.getir.com/getirweb-images/common/landing/phoneLanding.png" alt="phone" className="h-[288px]" />
+        <img src="https://i.hizliresim.com/des5kup.png" alt="phone" className="h-[288px]" />
       </picture>
     </div>
     </div>

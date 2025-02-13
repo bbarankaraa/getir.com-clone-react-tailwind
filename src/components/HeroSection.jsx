@@ -1,5 +1,5 @@
 import { useState } from "react";
-import biMutluluk from "../assets/bimutluluk.svg";
+import biMutluluk from "../assets/bimutluluk.png";
 import ReactFlagsSelect from "react-flags-select";
 
 const HeroSection = () => {

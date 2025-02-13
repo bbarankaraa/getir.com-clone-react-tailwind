@@ -1,22 +1,18 @@
 [
     {
         "id": 1,
-        "image": "https://cdn-image.getir.com/banner/images/13ae2850-40ed-4426-8014-dc09db49eed5.jpg"
-    },
-    {
-        "id": 2,
         "image": "https://cdn-image.getir.com/banner/images/cdf06e13-17a7-45e3-b16c-1aff9706908b.jpg"
     },
     {
-        "id": 3,
+        "id": 2,
         "image": "https://cdn-image.getir.com/banner/images/df89de82-b474-4d53-b160-c5e468d46893.jpg"
     },
     {
-        "id": 4,
-        "image": "https://cdn-image.getir.com/banner/images/ce5ba718-10ac-4ae6-9570-cd1152d5c66d.jpg"
+        "id": 3,
+        "image": "https://i.hizliresim.com/jgmk44k.png?_gl=1*zvnq3j*_ga*MjA0ODE4MDEwNi4xNzM5NDQ5ODAy*_ga_M9ZRXYS2YN*MTczOTQ0OTgwMi4xLjEuMTczOTQ0OTgxNS40Ny4wLjA."
     },
     {
-        "id": 5,
-        "image": "https://cdn-image.getir.com/banner/images/9ea54fd7-f3ef-4c80-8b52-5c8a98f3d2a9.jpg"
+        "id": 4,
+        "image": "https://i.hizliresim.com/2laq0ul.png"
     }
 ]
